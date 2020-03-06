@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quotes</string>
+
+    <string name="tags">Tags:</string>
+    <string name="chooseColor">Tags color</string>
+    <string name="see_more">See more</string>
+</resources>

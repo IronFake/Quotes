@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding">5dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="corner_radius">5dp</dimen>
+
+    <!--Quotes list-->
+    <dimen name="quote_text_size">20sp</dimen>
+
+    <!--Quote detail-->
+    <dimen name="quote_title_text">30sp</dimen>
+    <dimen name="tag_text_size">16sp</dimen>
+
+</resources>
